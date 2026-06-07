@@ -1,4 +1,4 @@
-Late To Upload - LPS
+## LPS
 
 ## What does it does?
 
@@ -29,9 +29,4 @@ Alternatively, create a simple `CMakeLists.txt` and build with CMake if you want
 
 ## Screenshots from SonarQube scan
 
-Below is the SonarQube overview screenshot you provided. Save the image to `docs/sonarqube/sonarqube-overview.png` (create the directory if needed) so the image renders here.
-
 ![SonarQube - Overview](docs/sonarqube/sonarqube-overview.png)
-
-If you'd like, I can add the image file into the repository for you — tell me the filename you'd like me to use and I'll add it.
-
